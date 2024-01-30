@@ -1,0 +1,41 @@
+body {
+    padding: 20px;
+}
+
+h1 {
+    color: #007bff;
+    margin-bottom: 20px;
+    text-align: center; /* Center the title */
+}
+
+#coordinateForm {
+    max-width: 800px; /* Increased max-width for a wider form */
+    margin: 0 auto;
+    text-align: center; /* Center the form contents */
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+#map {
+    height: 500px; /* Increased height for a larger map section */
+    margin-bottom: 15px;
+    width: 100%; /* Make the map section full width */
+}
+
+.btn-primary {
+    display: block;
+    margin: 0 auto;
+}
