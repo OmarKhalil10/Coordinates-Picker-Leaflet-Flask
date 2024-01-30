@@ -152,3 +152,6 @@ server.csr
 
 # credentials yaml file
 credentials.yaml
+
+# app.yaml file
+app.yaml
